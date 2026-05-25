@@ -4,7 +4,7 @@ I built an intelligent Invoice Processing Automation solution using UiPath Docum
 
 Video Demo:https://github.com/user-attachments/assets/a1d794f8-792d-4fec-8523-8f54e0899930
 
-🔹 What this automation does:
+🔹 What this automation does:  
 ✅ Reads invoices from PDFs/scanned documents  
 ✅ Extracts key invoice data using OCR + Document Understanding  
 ✅ Captures fields like Invoice Number, Vendor Name, Date,  and Amount  
@@ -12,7 +12,7 @@ Video Demo:https://github.com/user-attachments/assets/a1d794f8-792d-4fec-8523-8f
 ✅ Sends the final processed report directly through Gmail Integration  
 ✅ Reduces manual data entry and improves operational efficiency  
 
-🛠️ Technologies Used:
+🛠️ Technologies Used:  
 • UiPath Studio  
 • Document Understanding  
 • OCR Activities  
@@ -20,7 +20,7 @@ Video Demo:https://github.com/user-attachments/assets/a1d794f8-792d-4fec-8523-8f
 • Gmail Integration  
 • Exception Handling & Logging  
 
-📈 Key Outcomes:
+📈 Key Outcomes:  
 🔸 Faster invoice processing  
 🔸 Reduced manual work  
 🔸 Improved process efficiency  
@@ -28,7 +28,7 @@ Video Demo:https://github.com/user-attachments/assets/a1d794f8-792d-4fec-8523-8f
 
 One of the most interesting parts of this project was handling semi-structured invoice formats and automating the complete workflow from document extraction to email reporting.
 
-This project helped me gain practical experience in:
+This project helped me gain practical experience in:  
 💡 Intelligent Automation  
 💡 OCR-based Data Extraction  
 💡 RPA Workflow Design  
