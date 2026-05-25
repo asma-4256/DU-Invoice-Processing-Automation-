@@ -1,0 +1,6 @@
+{
+  "Name": "Document Understanding Invoice Automation",
+  "ProjectType": "Process",
+  "Description": "Invoice Prcessing Automation by using Document Understanding ",
+  "MainFile": "Main.xaml"
+}

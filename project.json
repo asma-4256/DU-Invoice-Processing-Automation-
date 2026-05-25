@@ -1,0 +1,63 @@
+{
+  "name": "Document Understanding Invoice Automation",
+  "projectId": "5d7010fe-f3b0-4edc-9e54-33364b8fb9ea",
+  "description": "Invoice Prcessing Automation by using Document Understanding ",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DocumentUnderstanding.ML.Activities": "[2.2.0-preview]",
+    "UiPath.Excel.Activities": "[3.5.0-preview]",
+    "UiPath.GSuite.Activities": "[3.9.0-preview]",
+    "UiPath.IntelligentOCR.Activities": "[7.2.0-preview]",
+    "UiPath.MicrosoftOffice365.Activities": "[3.9.0-preview]",
+    "UiPath.OmniPage.Activities": "[2.1.0-preview]",
+    "UiPath.System.Activities": "[26.4.1-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.193.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "fde80083-7190-4be6-b4f5-e5a2cee48e44",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
